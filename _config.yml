@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's eha and I'm a Ph.D. Research Scholar at IIIT Delhi. 
+  Hi, my name's Neha and I'm a Ph.D. Research Scholar at IIIT Delhi. 
   I work in NLP, NLU and Computational Social Science. I have worked on Stance detection ot Twitter, Hate speech detection, and study of various socil media protests.
 
 content:
